@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 3e86d340715b540348d85a875ac48de4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8474542075993397650
+    second: Chris's Crysuss_0
+  - first:
+      213: 6594483186913125038
+    second: Chris's Crysuss_1
+  - first:
+      213: 3941272383640063027
+    second: Chris's Crysuss_2
+  - first:
+      213: -1941469515408321610
+    second: Chris's Crysuss_3
+  - first:
+      213: -2598521865412446111
+    second: Chris's Crysuss_4
+  - first:
+      213: -1682784308681429609
+    second: Chris's Crysuss_5
+  - first:
+      213: -1443956227245271272
+    second: Chris's Crysuss_6
+  - first:
+      213: 2500122050452311020
+    second: Chris's Crysuss_7
+  - first:
+      213: -7768090575301058788
+    second: Chris's Crysuss_8
+  - first:
+      213: 7140827246303480627
+    second: Chris's Crysuss_9
+  - first:
+      213: -5563111489594586856
+    second: Chris's Crysuss_10
+  - first:
+      213: -5482668161099840807
+    second: Chris's Crysuss_11
+  - first:
+      213: 3053341806132051825
+    second: Chris's Crysuss_12
+  - first:
+      213: 284369912268518295
+    second: Chris's Crysuss_13
+  - first:
+      213: 3626154609016129183
+    second: Chris's Crysuss_14
+  - first:
+      213: 6761734062331932081
+    second: Chris's Crysuss_15
+  - first:
+      213: -1012776860035080472
+    second: Chris's Crysuss_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chris's Crysuss_0
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 697
+        width: 145
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66ef46c1e0646a80800000000000000
+      internalID: -8474542075993397650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris's Crysuss_1
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 851
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea22e39f48f448b50800000000000000
+      internalID: 6594483186913125038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris's Crysuss_2
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 691
+        width: 81
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c4ce5e95632b630800000000000000
+      internalID: 3941272383640063027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris's Crysuss_3
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 821
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b356d713c38e05e0800000000000000
+      internalID: -1941469515408321610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris's Crysuss_4
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 702
+        width: 79
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1687107812230fbd0800000000000000
+      internalID: -2598521865412446111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris's Crysuss_5
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 697
+        width: 40
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d2177469c85a8e0800000000000000
+      internalID: -1682784308681429609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris's Crysuss_6
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 700
+        width: 81
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81715d3367906fbe0800000000000000
+      internalID: -1443956227245271272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris's Crysuss_7
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 687
+        width: 34
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebc45832c732b220800000000000000
+      internalID: 2500122050452311020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris's Crysuss_8
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 524
+        width: 77
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fde1467c2323490800000000000000
+      internalID: -7768090575301058788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris's Crysuss_9
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 525
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b895afb80591360800000000000000
+      internalID: 7140827246303480627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris's Crysuss_10
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 533
+        width: 68
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81902d8239bdbc2b0800000000000000
+      internalID: -5563111489594586856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris's Crysuss_11
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 476
+        width: 69
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2cc4c1b56a9e3b0800000000000000
+      internalID: -5482668161099840807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris's Crysuss_12
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 530
+        width: 66
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fb9540236af5a20800000000000000
+      internalID: 3053341806132051825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris's Crysuss_13
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 530
+        width: 30
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793f295bde842f300800000000000000
+      internalID: 284369912268518295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris's Crysuss_14
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 538
+        width: 43
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f964d0b9760b25230800000000000000
+      internalID: 3626154609016129183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris's Crysuss_15
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 525
+        width: 67
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd24f2fd4186dd50800000000000000
+      internalID: 6761734062331932081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris's Crysuss_16
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 525
+        width: 59
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee9fdccfc4e1f1f0800000000000000
+      internalID: -1012776860035080472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Chris's Crysuss_0: -8474542075993397650
+      Chris's Crysuss_1: 6594483186913125038
+      Chris's Crysuss_10: -5563111489594586856
+      Chris's Crysuss_11: -5482668161099840807
+      Chris's Crysuss_12: 3053341806132051825
+      Chris's Crysuss_13: 284369912268518295
+      Chris's Crysuss_14: 3626154609016129183
+      Chris's Crysuss_15: 6761734062331932081
+      Chris's Crysuss_16: -1012776860035080472
+      Chris's Crysuss_2: 3941272383640063027
+      Chris's Crysuss_3: -1941469515408321610
+      Chris's Crysuss_4: -2598521865412446111
+      Chris's Crysuss_5: -1682784308681429609
+      Chris's Crysuss_6: -1443956227245271272
+      Chris's Crysuss_7: 2500122050452311020
+      Chris's Crysuss_8: -7768090575301058788
+      Chris's Crysuss_9: 7140827246303480627
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

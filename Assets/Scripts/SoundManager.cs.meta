@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 47684983f4cd5a941aa34d9851da7842
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameMixer: {fileID: 24100000, guid: 469adbe107499de43a4d76bf8d117f16, type: 2}
+  - deathSFX: {fileID: 8300000, guid: 745b953d9dc9ed0459896f2af34a0347, type: 3}
+  - respawnSFX: {fileID: 8300000, guid: 9da4a0a3bc44d904494448f8a45e7639, type: 3}
+  - gameOverSFX: {fileID: 8300000, guid: 07ccba3dc9e97d749bfcd50195d2723c, type: 3}
+  - buttonSFX: {instanceID: 0}
+  - carStartSFX: {instanceID: 0}
+  - pickupSFX: {fileID: 8300000, guid: 70223a14d0cad6c4899e4465196dc156, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

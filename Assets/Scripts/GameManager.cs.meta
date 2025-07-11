@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: afd0148eeb136564cb93b712725110d8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - startPlayerInput: {instanceID: 0}
+  - Player: {instanceID: 0}
+  - currentScoreText: {instanceID: 0}
+  - hiScoreText: {instanceID: 0}
+  - playerLivesUI: {instanceID: 0}
+  - playerLifeIcon: {instanceID: 0}
+  - respawnText: {instanceID: 0}
+  - gameOverText: {instanceID: 0}
+  - deathSFX: {fileID: 8300000, guid: 745b953d9dc9ed0459896f2af34a0347, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

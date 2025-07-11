@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 1a73f87c3ddca1c4faa8bd61b42bb1b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7289392699891845972
+    second: CarAnimation(With Light & Shadow)L_0
+  - first:
+      213: 1875916896709739028
+    second: CarAnimation(With Light & Shadow)L_1
+  - first:
+      213: 126062663854640169
+    second: CarAnimation(With Light & Shadow)L_2
+  - first:
+      213: -3240892870576146177
+    second: CarAnimation(With Light & Shadow)L_3
+  - first:
+      213: 2270881904280004733
+    second: CarAnimation(With Light & Shadow)L_4
+  - first:
+      213: 4803038899496262024
+    second: CarAnimation(With Light & Shadow)L_5
+  - first:
+      213: -2810395357721133246
+    second: CarAnimation(With Light & Shadow)L_6
+  - first:
+      213: -7373421832880998814
+    second: CarAnimation(With Light & Shadow)L_7
+  - first:
+      213: 8252158518036963117
+    second: CarAnimation(With Light & Shadow)L_8
+  - first:
+      213: 3717327552463642696
+    second: CarAnimation(With Light & Shadow)L_9
+  - first:
+      213: 4031904388757290881
+    second: CarAnimation(With Light & Shadow)L_10
+  - first:
+      213: 8923616139894422778
+    second: CarAnimation(With Light & Shadow)L_11
+  - first:
+      213: 2832484300273978701
+    second: CarAnimation(With Light & Shadow)L_12
+  - first:
+      213: -320378986862323610
+    second: CarAnimation(With Light & Shadow)L_13
+  - first:
+      213: 7618113025129710459
+    second: CarAnimation(With Light & Shadow)L_14
+  - first:
+      213: 6948089043658081226
+    second: CarAnimation(With Light & Shadow)L_15
+  - first:
+      213: -5444895888801007944
+    second: CarAnimation(With Light & Shadow)L_16
+  - first:
+      213: -511944431245196233
+    second: CarAnimation(With Light & Shadow)L_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CarAnimation(With Light & Shadow)R_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7500
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9e827f71e2d89419f1a3943ad6d84a
+      internalID: 131206462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarAnimation(With Light & Shadow)R_1
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 7500
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f813af24be842488f26d2fab2968ed
+      internalID: 2120985735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarAnimation(With Light & Shadow)R_2
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 7500
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8bc4ab1e94e294ea4a52af2514c33f
+      internalID: -1520212095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarAnimation(With Light & Shadow)R_3
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 7500
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3df1de50a3ce44da45e92a6aeef887
+      internalID: -741523362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarAnimation(With Light & Shadow)R_4
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 7500
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfa58726fca3584f9d3da75f131dee8
+      internalID: -1355656705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarAnimation(With Light & Shadow)R_5
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 7500
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f384f09fc96b836448611b359a939e1e
+      internalID: -283209454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarAnimation(With Light & Shadow)R_6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 6000
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52e248def95782488ac8738c5eaf7ae
+      internalID: -724907267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarAnimation(With Light & Shadow)R_7
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 6000
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b2f43ae36d2f84eb32f0b61bf102cb
+      internalID: 648548797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarAnimation(With Light & Shadow)R_8
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 6000
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c0a78d9f73911418fa9bd84bdda020
+      internalID: 1984591822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarAnimation(With Light & Shadow)R_9
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 6000
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bddc653685a314fbc91c44f7311b55
+      internalID: -1559725953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarAnimation(With Light & Shadow)R_10
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 4500
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc60b1e0f8d54d40a171925f7d85b53
+      internalID: -197054140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarAnimation(With Light & Shadow)R_11
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 4500
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98eb46e9707456a4d98fd88c7679ab36
+      internalID: 203527308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarAnimation(With Light & Shadow)R_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a9ab918e74f6142a379492d2ea86b1
+      internalID: 1190876527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarAnimation(With Light & Shadow)R_13
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3000
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ab59ea2545a024f86baf85d19e6401
+      internalID: 1138417635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarAnimation(With Light & Shadow)R_14
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3000
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb8f9044c54e77438f921581e2bae16
+      internalID: -1963210091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarAnimation(With Light & Shadow)R_15
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3000
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e563c3a87a935246a59cabec3a9c008
+      internalID: -52560649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarAnimation(With Light & Shadow)R_16
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3000
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed50f5b876924f4d8b4cc6f9964b70b
+      internalID: -1797870735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarAnimation(With Light & Shadow)R_17
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 3000
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3240577277ee1f647901cc246b011db3
+      internalID: -1727959923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e36a4b523e9b92f4d90b76f129b40326
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CarAnimation(With Light & Shadow)R_0: 131206462
+      CarAnimation(With Light & Shadow)R_1: 2120985735
+      CarAnimation(With Light & Shadow)R_10: -197054140
+      CarAnimation(With Light & Shadow)R_11: 203527308
+      CarAnimation(With Light & Shadow)R_12: 1190876527
+      CarAnimation(With Light & Shadow)R_13: 1138417635
+      CarAnimation(With Light & Shadow)R_14: -1963210091
+      CarAnimation(With Light & Shadow)R_15: -52560649
+      CarAnimation(With Light & Shadow)R_16: -1797870735
+      CarAnimation(With Light & Shadow)R_17: -1727959923
+      CarAnimation(With Light & Shadow)R_2: -1520212095
+      CarAnimation(With Light & Shadow)R_3: -741523362
+      CarAnimation(With Light & Shadow)R_4: -1355656705
+      CarAnimation(With Light & Shadow)R_5: -283209454
+      CarAnimation(With Light & Shadow)R_6: -724907267
+      CarAnimation(With Light & Shadow)R_7: 648548797
+      CarAnimation(With Light & Shadow)R_8: 1984591822
+      CarAnimation(With Light & Shadow)R_9: -1559725953
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
