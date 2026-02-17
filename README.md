@@ -4,6 +4,10 @@ A 2D tube shooter inspired by the classic arcade game Gyruss, set in a surreal a
 
 **Play it here:** [https://danielc87.itch.io/chriss-crysuss](https://danielc87.itch.io/chriss-crysuss)
 
+## Demo
+
+https://github.com/DanielC8/Chris-s-Crisis/raw/main/CrisisDemoVideo.mp4
+
 ## Gameplay
 
 The player controls a car rotating around the perimeter of a tunnel, shooting inward at waves of hostile trees emerging from the vanishing point. The game uses a polar coordinate system — all movement and combat happen on a circular plane.
