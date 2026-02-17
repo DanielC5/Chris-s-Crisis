@@ -6,7 +6,10 @@ A 2D tube shooter inspired by the classic arcade game Gyruss, set in a surreal a
 
 ## Demo
 
-https://github.com/DanielC8/Chris-s-Crisis/raw/main/CrisisDemoVideo.mp4
+
+https://github.com/user-attachments/assets/8f691d3b-b8a1-49c8-916e-09cec5fc4863
+
+
 
 ## Gameplay
 
